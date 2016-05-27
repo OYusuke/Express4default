@@ -4,8 +4,8 @@
 
 ### install and edit
 ```
-$ git clone git@github.com:n0bisuke/ex4ect.git
-$ cd ex4ect
+$ git@github.com:OYusuke/Express4default.git
+$ cd Express4default
 $ npm i
 $ DEBUG=Express4default ./bin/www
   myapp Express server listening on port 8080 +0ms
