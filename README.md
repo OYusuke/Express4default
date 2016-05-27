@@ -7,7 +7,8 @@
 $ git@github.com:OYusuke/Express4default.git
 $ cd Express4default
 $ npm i
-$ DEBUG=Express4default ./bin/www
+$ DEBUG=Express4default ./bin/www				//Mac
+$ set DEBUG=Express4default & node .\bin\www	//Win
   myapp Express server listening on port 8080 +0ms
 ```
 
